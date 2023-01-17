@@ -34,7 +34,7 @@ searchBtn.addEventListener("click", () => {
         </div>
          <div class="wrapper">
             <div class="data-wrapper">
-                <h4>Population:</h4>
+                <h4>Population:</h4>0
                 <span>${data[0].population}</span>
             </div>
         </div>
